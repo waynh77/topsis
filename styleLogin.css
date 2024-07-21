@@ -1,0 +1,46 @@
+body{
+    background-image: url('bg2.jpg');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+h1 {
+color: #fff;
+}
+
+.login {
+padding: 1em;
+margin: 1em auto;
+width: 17em;
+background: #fff;
+border-radius: 3px;
+}
+
+label {
+font-size: 15pt;
+color: #555;
+}
+
+input[type="text"],
+input[type="password"],
+textarea {
+padding: 8px;
+width: 95%;
+background: #efefef;
+border: 0;
+font-size: 15pt;
+margin: 6px 0px;
+}
+
+.tombol {
+background: #3498db;
+color: #fff;
+border: 0;
+padding: 5px 8px;
+margin: 20px 0px;
+width: 130px;
+border-radius: 5px;
+height: 50px;
+}
